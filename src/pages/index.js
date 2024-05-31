@@ -685,7 +685,7 @@ const Navbar = () => {
 
           {/* Copyright */}
           <div className="text-center text-gray-300 mt-4 lg:mt-0">
-            © 2024 Medeaze - Pioneering Dental Clinic Growth in Delhi.
+            © 2024 Medeaze - Pioneering Dental Clinic Growth.
           </div>
         </div>
       </footer>
